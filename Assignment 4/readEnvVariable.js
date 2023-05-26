@@ -1,0 +1,1 @@
+console.log(process.env.user) // It set envoirment variable for witch listen on the name of user
